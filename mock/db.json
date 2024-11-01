@@ -1,0 +1,37 @@
+{
+  "goodsInfo": [
+    {
+      "id": 6,
+      "goodsName": "1",
+      "goodsDate": "2024-03-06T16:00:00.000Z",
+      "goodsPrice": "1",
+      "goodsAdress": "1",
+      "goodsType": "服装类",
+      "currentStatus": 0
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "loginId": "21852223",
+      "userName": "风信子",
+      "currentPassword": "123456",
+      "currentPassword2": "123456",
+      "email": "admin@hbxy.cn",
+      "mobile": "18688888888",
+      "userType": "1",
+      "currentStatus": "0"
+    },
+    {
+      "id": 2,
+      "loginId": "aaaa",
+      "userName": "啊啊啊",
+      "currentPassword": "aaaa",
+      "currentPassword2": "aaaa",
+      "email": "啊啊啊",
+      "mobile": "啊啊啊",
+      "userType": "0",
+      "currentStatus": "0"
+    }
+  ]
+}
